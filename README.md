@@ -1,4 +1,5 @@
 # Fake-News-Detection-AML
+Repository for Applied Ml course(ITCS5156)
 
 get the data train.csv from 
 
